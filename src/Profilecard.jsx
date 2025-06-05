@@ -133,7 +133,7 @@ export default function ProfileCard() {
       {/* Card Body */}
       <div style={styles.body}>
         {/* Name + Subtitle */}
-        <h2 style={styles.name}>Enjambre</h2>
+        <h2 style={styles.name}>Yuson</h2>
         <p style={styles.subtitle}>Front‐End Developer Student</p>
 
         {/* Social Icons */}
