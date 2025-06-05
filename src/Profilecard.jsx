@@ -182,21 +182,21 @@ export default function ProfileCard() {
         <div style={styles.statsRow}>
           <div style={styles.statItem}>
             <FaHeart size={16} />
-            <span>60k</span>
+            <span>5k</span>
           </div>
 
          <div style={styles.divider} />
 
           <div style={styles.statItem}>
             <FaRegComment size={16} />
-            <span>20k</span>
+            <span>200</span>
           </div>
 
           <div style={styles.divider} />
 
           <div style={styles.statItem}>
             <FaShare size={16} />
-            <span>12k</span>
+            <span>1</span>
           </div>
         </div>
       </div>
